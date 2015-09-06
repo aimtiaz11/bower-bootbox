@@ -1,0 +1,17 @@
+{
+  "name": "bootbox",
+  "version": "0.0.1",
+  "authors": [
+    "Ali Imtiaz <alimtiaz@deloitte.com.au>"
+  ],
+  "description": "Bower package for bootbox",
+  "main": "bootbox.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
